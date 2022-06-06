@@ -1,0 +1,15 @@
+F:\C#\Znak\Exampl\Ex03\bin\Debug\net6.0\Ex03.exe
+F:\C#\Znak\Exampl\Ex03\bin\Debug\net6.0\Ex03.deps.json
+F:\C#\Znak\Exampl\Ex03\bin\Debug\net6.0\Ex03.runtimeconfig.json
+F:\C#\Znak\Exampl\Ex03\bin\Debug\net6.0\Ex03.dll
+F:\C#\Znak\Exampl\Ex03\bin\Debug\net6.0\Ex03.pdb
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.csproj.AssemblyReference.cache
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfoInputs.cache
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.AssemblyInfo.cs
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.csproj.CoreCompileInputs.cache
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.dll
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\refint\Ex03.dll
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.pdb
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\Ex03.genruntimeconfig.cache
+F:\C#\Znak\Exampl\Ex03\obj\Debug\net6.0\ref\Ex03.dll
